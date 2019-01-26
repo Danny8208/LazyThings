@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lazythings",
+  "name": "LazyThings",
+  "description": "A mod for people that are lazy and are impatient",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Danny8208"],
+  "credits": "Shadowfacts, McJty, Loremaster, Harry Tech Reviews' modding tutorial",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["LazyCore"]
+}
+]
