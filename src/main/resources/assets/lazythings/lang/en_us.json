@@ -1,0 +1,25 @@
+{
+  "item.lazythings.copper_ingot": "Copper Ingot",
+  "item.lazythings.tin_ingot": "Tin Ingot",
+  "item.lazythings.bronze_ingot": "Bronze Ingot",
+  "item.lazythings.steel_ingot": "Steel Ingot",
+
+  "item.lazythings.copper_nugget": "Copper Nugget",
+  "item.lazythings.tin_nugget": "Tin Nugget",
+  "item.lazythings.bronze_nugget": "Bronze Nugget",
+  "item.lazythings.steel_nugget": "Steel Nugget",
+
+  "item.lazythings.copper_pickaxe": "Copper Pickaxe",
+  "item.lazythings.tin_pickaxe": "Tin Pickaxe",
+  "item.lazythings.bronze_pickaxe": "Bronze Pickaxe",
+  "item.lazythings.steel_pickaxe": "Steel Pickaxe",
+
+  "block.lazythings.copper_block": "Copper Block",
+  "block.lazythings.tin_block": "Tin Block",
+  "block.lazythings.bronze_block": "Bronze Block",
+  "block.lazythings.steel_block": "Steel Block",
+
+  "block.lazythings.glowing_clear_glass": "Glowing Clear Glass",
+
+  "itemGroup.lazythings": "LazyThings"
+}
