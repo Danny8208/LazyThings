@@ -14,4 +14,8 @@ public class ModBlocks {
 
     @ObjectHolder("lazythings:glowing_clear_glass")
     public static GlassClearGlowing glassClearGlowing;
+    @ObjectHolder("lazythings:glowing_red_glass")
+    public static GlassRedGlowing glassRedGlowing;
+    @ObjectHolder("lazythings:glowing_red_glass")
+    public static GlassOrangeGlowing glassOrangeGlowing;
 }
