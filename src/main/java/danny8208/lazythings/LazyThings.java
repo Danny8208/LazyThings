@@ -71,8 +71,6 @@ public class LazyThings {
                     new BlockItem(ModBlocks.blockBronze, properties).setRegistryName("bronze_block"),
                     new BlockItem(ModBlocks.blockSteel,properties).setRegistryName("steel_block"),
 
-                    new BlockItem(ModBlocks.glassClearGlowing, properties).setRegistryName("glowing_clear_glass"),
-
                     new IngotCopper(),
                     new IngotTin(),
                     new IngotBronze(),
