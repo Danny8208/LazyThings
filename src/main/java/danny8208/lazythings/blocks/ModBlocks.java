@@ -11,11 +11,4 @@ public class ModBlocks {
     public static BlockBronze blockBronze;
     @ObjectHolder("lazythings:steel_block")
     public static BlockSteel blockSteel;
-
-    @ObjectHolder("lazythings:glowing_clear_glass")
-    public static GlassClearGlowing glassClearGlowing;
-    @ObjectHolder("lazythings:glowing_red_glass")
-    public static GlassRedGlowing glassRedGlowing;
-    @ObjectHolder("lazythings:glowing_red_glass")
-    public static GlassOrangeGlowing glassOrangeGlowing;
 }
